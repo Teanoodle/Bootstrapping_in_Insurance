@@ -17,6 +17,6 @@ Read our work in the report paper in all details.
 | Memory usage    | 17.11+ MB      |
 | Data types      | Mixed (int64 and object) |
 
-🤓Team: Liability Lions (Super Wang, Shijun Wu, Oliver Tung, Adamo Dragicevic)
+🤓Team: Liability Lions (Super Wang, Shijun Wu, Oliver Tung, Adamo Dragicevic)  
 🫡For: Professor, Anas Abdallah
 December 5th, 2024
